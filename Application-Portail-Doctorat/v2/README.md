@@ -14,7 +14,7 @@ Les diagrammes dont l'application découle sont dans le dossier [Diagrammes-Acti
 
 ## 3. Aperçu des interfaces de la plateforme
 
-![Espace directeur de thèse](2-espace-directeur-these(2).png).
+![Espace directeur de thèse](<2-espace-directeur-these (2).png>)
 
 ![Direction de structure](3-direction-structure.png.png)
 
