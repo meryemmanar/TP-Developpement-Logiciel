@@ -13,7 +13,9 @@ Les diagrammes dont l'application découle sont dans le dossier [Diagrammes-Acti
 ![Connexion avec le compte académique](2-connexion-compte-academique.png)
 
 ## 3. Aperçu des interfaces de la plateforme
-![Aperçu des interfaces](3-apercu-interfaces.png)
-
+![Espace directeur de thèse](2-espace-directeur-these.png)
+![Direction de structure](3-direction-structure.png)
+![Contrôle d'identité](4-controle-identite.png)
+![Gestion de campagne](5-gestion-campagne.png)
 ## Limites
 Pas de backend : données de démonstration et authentification simulée.
