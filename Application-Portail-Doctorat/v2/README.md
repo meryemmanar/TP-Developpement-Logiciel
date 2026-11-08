@@ -13,9 +13,13 @@ Les diagrammes dont l'application découle sont dans le dossier [Diagrammes-Acti
 ![Connexion avec le compte académique](2-connexion-compte-academique.png)
 
 ## 3. Aperçu des interfaces de la plateforme
-![Espace directeur de thèse](2-espace-directeur-these (2))
+
+![Espace directeur de thèse](2-espace-directeur-these (2).png.png)
+
 ![Direction de structure](3-direction-structure.png.png)
+
 ![Agent Scolarite](4-agent-scolarite.png.png)
+
 ![Gestion de campagne](5-gestion-campagne.png.png)
 ## Limites
 Pas de backend : données de démonstration et authentification simulée.
